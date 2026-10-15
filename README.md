@@ -23,3 +23,4 @@ Nutrition applies to the entered ingredient quantity, not per 100g. Pantry links
 Data stays in localStorage for this browser and site origin. Clearing browser data removes it; switching devices, browsers or hosting addresses does not transfer it. Storage failures show a visible warning.
 
 Independent student project, not affiliated with Emory University.
+
